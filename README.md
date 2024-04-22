@@ -1,11 +1,9 @@
 # Brainwave Authentication Dataset and Experiment Material
-This repository contains the brainwave data and additional material used in the publication: 
+This repository contains the brainwave data and additional material used in following publications: 
 
 Patricia Arias-Cabarcos, Thilo Habrich, Karen Becker, Christian Becker, and Thorsten Strufe (2021), _“Inexpensive Brainwave Authentication:
 New Techniques and Insights on User Acceptance”_, USENIX Security Symposium 2021.
 https://www.usenix.org/conference/usenixsecurity21/presentation/arias-cabarcos
-
-
 ```
 @inproceedings{arias2021inexpensive,
   title={Inexpensive Brainwave Authentication: New Techniques and Insights on User Acceptance},
@@ -15,6 +13,20 @@ https://www.usenix.org/conference/usenixsecurity21/presentation/arias-cabarcos
 }
 ```
 
+Arias-Cabarcos P, Fallahi M, Habrich T, Schulze K, Becker C, Strufe T. Performance and usability evaluation of brainwave authentication techniques with consumer devices. ACM Transactions on Privacy and Security. 2023 Mar 13;26(3):1-36.
+https://dl.acm.org/doi/full/10.1145/3579356
+```
+@article{arias2023performance,
+  title={Performance and usability evaluation of brainwave authentication techniques with consumer devices},
+  author={Arias-Cabarcos, Patricia and Fallahi, Matin and Habrich, Thilo and Schulze, Karen and Becker, Christian and Strufe, Thorsten},
+  journal={ACM Transactions on Privacy and Security},
+  volume={26},
+  number={3},
+  pages={1--36},
+  year={2023},
+  publisher={ACM New York, NY}
+}
+```
 
 ### Dataset
 The brainwave recordings can be found in the [**"Dataset"**](https://i62nextcloud.tm.kit.edu/index.php/s/YTkcB86dLA6G3wE) link. Despite 52 distinct subjects have been recorded during the experiment, we obtained consent from 38 participants to publish their brainwave data. Files for each user are preceded by a subject ID number.
