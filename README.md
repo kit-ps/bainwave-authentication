@@ -29,7 +29,7 @@ https://dl.acm.org/doi/full/10.1145/3579356
 ```
 
 ### Dataset
-The brainwave recordings can be found in the [**"Dataset"**](https://i62nextcloud.tm.kit.edu/index.php/s/YTkcB86dLA6G3wE) link. Despite 52 distinct subjects have been recorded during the experiment, we obtained consent from 38 participants to publish their brainwave data. Files for each user are preceded by a subject ID number.
+The brainwave recordings can be found on this [**"Dataset"**](https://i62nextcloud.tm.kit.edu/index.php/s/YTkcB86dLA6G3wE) link. Despite 52 distinct subjects have been recorded during the experiment, we obtained consent from 38 participants to publish their brainwave data. Files for each user are preceded by a subject ID number.
 
 Important Files: 
 - files ending with *".edf"*: These files contain the brainwave recordings together with some basic eventmarkers. They can for example be read with EEGLAB in Matlab using the Biosig Toolbox or other EDF viewers.
